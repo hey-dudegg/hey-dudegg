@@ -18,7 +18,19 @@
   </tr>
 </table>
 
+
+<div align="center">
+
 ## 📞 Contact 📞
-[![velog](https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white)](https://velog.io/@m5rep5wer/posts)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/hey-dudegg/)
-<a href="mailto:wbs4808@gmail.com"><img src='https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white'/></a>
+
+<a href="https://velog.io/@m5rep5wer/posts">
+  <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white" alt="Velog">
+</a>
+<a href="https://www.linkedin.com/in/hey-dudegg/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:wbs4808@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
+
+</div>
