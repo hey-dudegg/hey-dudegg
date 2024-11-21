@@ -1,4 +1,4 @@
-﻿![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=주니어%20백엔드개발자%20김동준입니다.🚀&fontSize=35)
+﻿![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=주니어%20개발자%20김동준입니다.🚀&fontSize=35)
 
 <table>
   <tr>
